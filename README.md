@@ -2,7 +2,7 @@
 ## Meu nome é Daniel Teles
 
 <div>
-- 📚 Estudante de Ciência da Computação na Pontífica Universidade Católica de São Paulo<br>
+- 📚 Estudante de Ciência da Computação na Pontifícia Universidade Católica de São Paulo<br>
 - 🖥️ Participante de Maratonas de programação<br>
 - 💬 Interessado por desenvolvimento de software, IA e ciência de dados<br>
 </div>

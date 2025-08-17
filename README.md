@@ -6,30 +6,29 @@
 - 🖥️ Participante de Maratonas de programação<br>
 - 💬 Interessado por desenvolvimento de software, IA e ciência de dados<br>
 </div>
-##
 
-
+--- 
 <!-- Estatisticas -->
 
 ## Linguagens  
 <div>
 <a href="https://github.com/DanielTelesdeOliveira" >
-<img loading="lazy" height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTelesdeOliveira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTelesdeOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
+## Contato<br>
 <div>
 <!-- Contatos -->
-##Contato<br>
-<a href="https://www.linkedin.com/in/danieltelesoliveira" target="_blank">
-  <img 
-    loading="lazy" 
-    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn"
-  >
-</a>
+  <a href="https://www.linkedin.com/in/danieltelesoliveira" target="_blank">
+    <img 
+      loading="lazy" 
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+      width="120"
+    >
+  </a>
 </div>
-
 
 <!--
 **DanielTelesdeOliveira/DanielTelesdeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

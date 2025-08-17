@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <!-- Estatisticas -->
 <div>
 <a href="https://github.com/DanielTelesdeOliveira" >
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltelesoliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>

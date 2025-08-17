@@ -16,6 +16,7 @@
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTelesdeOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+***
 
 ## Contato<br>
 <div>
@@ -25,7 +26,7 @@
       loading="lazy" 
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn"
-      width="120"
+      width="90"
     >
   </a>
 </div>

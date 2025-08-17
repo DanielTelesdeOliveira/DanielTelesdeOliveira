@@ -2,11 +2,11 @@
 ## Meu nome é Daniel Teles
 
 <div>
-- 📚 Estudante de Ciência da Computação na Pontífica Universidade Católica de São Paulo
-- 🖥️ Participante de Maratonas de programação
-- 💬 Interessado por desenvolvimento de software, IA e ciência de dados
+- 📚 Estudante de Ciência da Computação na Pontífica Universidade Católica de São Paulo<br>
+- 🖥️ Participante de Maratonas de programação<br>
+- 💬 Interessado por desenvolvimento de software, IA e ciência de dados<br>
 </div>
-
+##
 
 
 <!-- Estatisticas -->
@@ -20,12 +20,12 @@
 
 <div>
 <!-- Contatos -->
-##Contato
+##Contato<br>
 <a href="https://www.linkedin.com/in/danieltelesoliveira" target="_blank">
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+    loading="lazy" 
+    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
     alt="LinkedIn"
-    width="30"
   >
 </a>
 </div>

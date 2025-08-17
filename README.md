@@ -14,13 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 <div>
 <!-- Contatos -->
-##  Linkedin: <a href="https://www.linkedin.com/in/danieltelesoliveira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ Linkedin: <a href="https://www.linkedin.com/in/danieltelesoliveira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <!-- Estatisticas -->
+
+Linguagens  
 <div>
 <a href="https://github.com/DanielTelesdeOliveira" >
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTelesdeOliveira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltelesoliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
